@@ -1,7 +1,7 @@
 # Mikropia
 Micropia je 2D top down shooter pod mikroskopom s naglaskom na boje
 
-![Screenshoot](Screenshot1.png)
+![Screenshoot](Screenshot3.png)
 ![Screenshoot](Screenshot2.png)
 
 link za build igre
